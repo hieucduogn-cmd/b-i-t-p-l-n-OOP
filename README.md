@@ -192,14 +192,22 @@ Dữ liệu được lưu trữ trong bộ nhớ bằng **List<T>**:
 | 🎭 **Đa hình** | Override phương thức `TinhGiaSauChietKhau()` | Các file Sach*.cs |
 | 📦 **Trừu tượng** | Lớp `abstract Sach` | `Sach.cs` |
 
+## 📚 Tài liệu tham khảo
+
+1. **Microsoft Docs - Windows Forms**  
+   https://docs.microsoft.com/en-us/dotnet/desktop/winforms/
+
+2. **Lập trình hướng đối tượng trong C#**  
+   https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop
+
+3. **Sách "Lập trình C# và .NET" - Tác giả: Nguyễn Đức Thắng**
 ---
 
-## 👨‍💻 Tác giả
 
 Dự án được phát triển bởi **Nhóm [Tên nhóm]** - Môn Lập trình hướng đối tượng
 
 ---
 
-**© 2024 - Hệ thống Quản Lý Cửa Hàng Sách | OOP Project**
+
 
 
