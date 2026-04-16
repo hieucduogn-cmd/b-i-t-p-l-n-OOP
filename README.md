@@ -50,31 +50,14 @@ Hệ thống hỗ trợ đầy đủ các nghiệp vụ: **Thêm sách -> Xóa s
 ## 📂 Cấu trúc dự án
 
 Để đảm bảo hệ thống vận hành chính xác, cấu trúc thư mục được tổ chức như sau:
-QuanLySach/
-│
-├── ⚙️ BACKEND (Models)
-│ ├── Models/
-│ │ ├── Entities/
-│ │ │ ├── Sach.cs # [Abstract] Lớp trừu tượng
-│ │ │ ├── SachGiaoKhoa.cs # [Inheritance] Kế thừa Sach
-│ │ │ ├── SachThamKhao.cs # [Inheritance] Kế thừa Sach
-│ │ │ ├── SachVanHoc.cs # [Inheritance] Kế thừa Sach
-│ │ │ ├── KhachHang.cs # [Entity] Khách hàng
-│ │ │ ├── ChiTietHoaDon.cs # [Entity] Chi tiết hóa đơn
-│ │ │ └── HoaDon.cs # [Entity] Hóa đơn bán hàng
-│ │ └── Services/
-│ │ └── QuanLyCuaHang.cs # [Service] Xử lý nghiệp vụ
-│
-├── 🌐 FRONTEND (Forms)
-│ ├── FormQuanLy.cs # Form chính (Dashboard)
-│ ├── FormThemSach.cs # Form thêm sách
-│ ├── FormBanHang.cs # Form bán hàng
-│ └── FormHoaDon.cs # Form xem hóa đơn
-│
-├── 📄 Program.cs # Điểm khởi chạy ứng dụng
-└── 📄 README.md # Tài liệu hướng dẫn
+## 📂 Cấu trúc dự án
+📁 QuanLySach/
+├── 📁 Models/
+│ ├── 📁 Entities/ (Sach, KhachHang, HoaDon...)
+│ └── 📁 Services/ (QuanLyCuaHang)
+├── 📁 Forms/ (Form chính, Thêm, Bán, Hóa đơn)
+└── 📄 Program.cs (Khởi chạy)
 
----
 
 ## 🚀 Cài đặt & Vận hành
 
