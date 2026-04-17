@@ -1,0 +1,9 @@
+D:\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.AssemblyReference.cache
+D:\baitaplon\baitaplon\obj\Debug\baitaplon.Properties.Resources.resources
+D:\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.GenerateResource.cache
+D:\baitaplon\baitaplon\obj\Debug\baitaplon.csproj.CoreCompileInputs.cache
+D:\baitaplon\baitaplon\bin\Debug\baitaplon.exe.config
+D:\baitaplon\baitaplon\bin\Debug\baitaplon.exe
+D:\baitaplon\baitaplon\bin\Debug\baitaplon.pdb
+D:\baitaplon\baitaplon\obj\Debug\baitaplon.exe
+D:\baitaplon\baitaplon\obj\Debug\baitaplon.pdb
